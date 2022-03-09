@@ -27,13 +27,12 @@
 
 ## Acknowledgements
 Give credit here.
-- This project was inspired by...
-- References if any...
-- This project was based on [this tutorial](https://www.example.com).
-
+- This project was inspired by... Upgrad
+ 
 
 ## Contact
-Created by [@mohit00] - feel free to contact me!
+Created by joiin effort of Mohit Naithani and Pratik Subhash katke
+ 
 
 
 <!-- Optional -->
