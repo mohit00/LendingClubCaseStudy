@@ -31,7 +31,7 @@ Give credit here.
  
 
 ## Contact
-Created by joiin effort of Mohit Naithani and Pratik Subhash katke
+Created by join effort of Mohit Naithani and Pratik Subhash katke
  
 
 
